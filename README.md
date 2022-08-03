@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="300" src="https://c.tenor.com/WSg2xPUgFY8AAAAd/cat-hissing.gif"  />
+
+###
+
 <p align="left">My name is Luiz and I'm a Computer Engineering student and Developer who is looking for a job opportunity as an intern.</p>
 
 ###
