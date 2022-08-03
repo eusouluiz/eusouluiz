@@ -1,12 +1,14 @@
-<h1 align="left">Hey there! What's up? 🙃​</h1>
+<br clear="both">
+
+<img align="right" height="250" src="https://github.com/eusouluiz/eusouluiz/blob/main/cat.gif?raw=true"  />
 
 ###
 
-<img align="right" height="300" src="https://c.tenor.com/WSg2xPUgFY8AAAAd/cat-hissing.gif"  />
+<h1 align="left">Hey there! What's up? 😉​​</h1>
 
 ###
 
-<p align="left">My name is Luiz and I'm a Computer Engineering student and Developer who is looking for a job opportunity as an intern.</p>
+<h4 align="left">My name is Luiz and I'm a Computer Engineering student and Developer who is looking for a job opportunity as an intern.</h4>
 
 ###
 
@@ -18,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with or I'm learning</h2>
+<h2 align="left">I code with / I'm learning</h2>
 
 ###
 
