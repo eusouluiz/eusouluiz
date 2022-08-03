@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/eusouluiz/eusouluiz/blob/output/snake.svg" alt="Snake animation" />
-
-###
