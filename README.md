@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://github.com/eusouluiz/eusouluiz/blob/main/cat.gif?raw=true"  />
+<img align="right" height="150" src="https://github.com/eusouluiz/eusouluiz/blob/main/cat.gif?raw=true"  />
 
 ###
 
