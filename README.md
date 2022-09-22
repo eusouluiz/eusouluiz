@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="150" src="https://github.com/eusouluiz/eusouluiz/blob/main/cat.gif?raw=true"  />
+<img align="right" height="150" src="https://github.com/eusouluiz/eusouluiz/blob/main/cat.gif?raw=true"/>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">My name is Luiz and I'm a Computer Engineering student and Developer who is looking for a job opportunity as an intern.</h4>
+<h4 align="left">My name is Luiz.<br>I'm a Software Developer and Computer Engineering student currently working as an intern at Carbonaut.</h4>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Python, HTML, CSS and JavaScript.<br>🎯 My current goal is to be part of  a dev team as an intern to get experience and improve my programming skills.<br>📫 How to reach me: luizgustavo.on@hotmail.com</p>
+<p align="left">📚 I'm currently learning PHP, Laravel, HTML, CSS and JavaScript.<br>🎯 Improving my programming skills.<br>📫 How to reach me: <a href="mailto:luiznascimento@carbonaut.io" target="_blank">luiznascimento@carbonaut.io</a></p>
 
 ###
 
@@ -25,6 +25,8 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="43" width="56" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="43" width="56" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="43" width="56" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="43" width="56" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="43" width="56" alt="c logo"  />
