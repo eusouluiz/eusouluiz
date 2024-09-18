@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">My name is Luiz.<br>I'm a Software Developer and Computer Engineer currently working as a Junior Front-end Developer at Carbonaut.</h4>
+<h4 align="left">My name is Luiz.<br>I'm a Software Developer and Computer Engineer currently working as a Front-end Developer at Carbonaut.</h4>
 
 ###
 
